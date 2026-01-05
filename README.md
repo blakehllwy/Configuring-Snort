@@ -3,7 +3,7 @@
 ## Objective
 
 
-The objective of this project/lab is to practice network traffic analysis using Snort with a focus on configuring alerts and logging capability. 
+The objective of this project/lab is to practice Snort configuration, writing rules, and analyzing traffic with a focus on alert and logging capability. 
 
 ### Skills Learned
 
